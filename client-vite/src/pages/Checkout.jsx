@@ -100,6 +100,7 @@ const Checkout = () => {
                 onChange={handleInputChange}
                 required
                 rows="3"
+                className='textarea-checkout'
               />
             </div>
             
