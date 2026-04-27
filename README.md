@@ -67,10 +67,11 @@
 ## Структура проекта
 
 autoparts-store/
-    client/        # React приложение (frontend)
-    server/        # Express API (backend)
-    screenshots/   # Скриншоты проекта
-    README.md
+│
+├── client/ # React приложение (frontend)
+├── server/ # Express API (backend)
+├── screenshots/ # Скриншоты проекта
+└── README.md
 
 ## Скриншоты
 
